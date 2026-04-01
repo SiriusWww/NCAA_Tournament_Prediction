@@ -14,3 +14,6 @@ Citation:
 
 Jeff Sonas, Martyna Plomecka, Yao Yan, and Addison Howard. March Machine Learning Mania 2026. https://kaggle.com/competitions/march-machine-learning-mania-2026, 2026. Kaggle.
 
+Mohammad Odeh. First Place Solution, March Machine Learning Mania 2025. https://www.kaggle.com/competitions/march-machine-learning-mania-2025/writeups/mohammad-odeh-first-place-solution, 2025. Kaggle.
+
+Mike Kim. 4th Place Solution for the March Machine Learning Mania 2025 Competition. https://www.kaggle.com/competitions/march-machine-learning-mania-2025/writeups/mikekim-4th-place-solution-for-the-march-machine-learning-mania, 2025. Kaggle.
