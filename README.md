@@ -11,5 +11,6 @@ This work is partially inspired by previous Kaggle March Machine Learning Mania 
 Data provided by Kaggle.
 
 Citation:
+
 Jeff Sonas, Martyna Plomecka, Yao Yan, and Addison Howard. March Machine Learning Mania 2026. https://kaggle.com/competitions/march-machine-learning-mania-2026, 2026. Kaggle.
 
