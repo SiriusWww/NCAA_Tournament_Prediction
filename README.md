@@ -7,3 +7,7 @@ This research builds a probabilistic prediction framework based on margin predic
 Logistic Regression and probability adjustment methods. Resulting predictions are highly aligned with market predictions from ESPN and Kalshi.
 
 This work is partially inspired by previous Kaggle March Machine Learning Mania solutions (Kim, 2025; Odeh, 2025).
+
+Data provided by Kaggle.
+Citation:
+Jeff Sonas, Martyna Plomecka, Yao Yan, and Addison Howard. March Machine Learning Mania 2026. https://kaggle.com/competitions/march-machine-learning-mania-2026, 2026. Kaggle.
